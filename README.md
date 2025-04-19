@@ -88,7 +88,13 @@ print("Predicted Placement Status:", placement_status)
 
 ## Output:
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-![image](https://github.com/user-attachments/assets/6dc38155-8919-48a3-9c7f-233be624f01e)
+## HEAD
+![Screenshot 2025-04-16 215710](https://github.com/user-attachments/assets/f3a60e8d-2e05-4b10-9640-83aaaa1ba275)
+## DATA PREPROCESSING
+![Screenshot 2025-04-16 215920](https://github.com/user-attachments/assets/0fe93f00-0dc3-4d41-baac-d2160cc5cdac)
+## LOGISTIC REGRESSION
+![Screenshot 2025-04-16 220148](https://github.com/user-attachments/assets/a358b4b6-80d5-444f-81cb-105fc657eaca)
+## CLASSIFICATION REPORT
 ![image](https://github.com/user-attachments/assets/bed8b358-c44b-4dde-bc28-97a90a989c2c)
 
 
